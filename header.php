@@ -32,6 +32,7 @@ session_start();
 	<link href="http://users.humboldt.edu/smtuttle/styles/normalize.css" 
           type="text/css" rel="stylesheet" />    
 	<link href="translator.css" type="text/css" rel="stylesheet"/>
+	<link href="profiledesign.css" type="text/css" rel="stylesheet"/>
 
 </head> 
 <body>
